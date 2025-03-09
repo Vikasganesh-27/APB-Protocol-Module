@@ -1,0 +1,124 @@
+[DRV] : RESET DONE
+----------------------------------------------------------------------------
+[GEN] :  paddr:11  pwdata:14 pwrite:1  prdata:0 pslverr:0 @ 90000
+[DRV] :  paddr:11  pwdata:14 pwrite:1  prdata:0 pslverr:0 @ 150000
+[MON] :  paddr:11  pwdata:14 pwrite:1  prdata:0 pslverr:0 @ 170000
+[SCO] :  paddr:11  pwdata:14 pwrite:1  prdata:0 pslverr:0 @ 170000
+[SCO] : DATA STORED DATA : 14 ADDR: 11
+----------------------------------------
+[GEN] :  paddr:11  pwdata:141 pwrite:0  prdata:0 pslverr:0 @ 170000
+[DRV] :  paddr:11  pwdata:141 pwrite:0  prdata:0 pslverr:0 @ 230000
+[MON] :  paddr:11  pwdata:0 pwrite:0  prdata:14 pslverr:0 @ 250000
+[SCO] :  paddr:11  pwdata:0 pwrite:0  prdata:14 pslverr:0 @ 250000
+[SCO] : Data Matched
+----------------------------------------
+[GEN] :  paddr:4  pwdata:169 pwrite:1  prdata:0 pslverr:0 @ 250000
+[DRV] :  paddr:4  pwdata:169 pwrite:1  prdata:0 pslverr:0 @ 310000
+[MON] :  paddr:4  pwdata:169 pwrite:1  prdata:0 pslverr:0 @ 330000
+[SCO] :  paddr:4  pwdata:169 pwrite:1  prdata:0 pslverr:0 @ 330000
+[SCO] : DATA STORED DATA : 169 ADDR: 4
+----------------------------------------
+[GEN] :  paddr:4  pwdata:150 pwrite:0  prdata:0 pslverr:0 @ 330000
+[DRV] :  paddr:4  pwdata:150 pwrite:0  prdata:0 pslverr:0 @ 390000
+[MON] :  paddr:4  pwdata:0 pwrite:0  prdata:169 pslverr:0 @ 410000
+[SCO] :  paddr:4  pwdata:0 pwrite:0  prdata:169 pslverr:0 @ 410000
+[SCO] : Data Matched
+----------------------------------------
+[GEN] :  paddr:7  pwdata:217 pwrite:1  prdata:0 pslverr:0 @ 410000
+[DRV] :  paddr:7  pwdata:217 pwrite:1  prdata:0 pslverr:0 @ 470000
+[MON] :  paddr:7  pwdata:217 pwrite:1  prdata:0 pslverr:0 @ 490000
+[SCO] :  paddr:7  pwdata:217 pwrite:1  prdata:0 pslverr:0 @ 490000
+[SCO] : DATA STORED DATA : 217 ADDR: 7
+----------------------------------------
+[GEN] :  paddr:1  pwdata:141 pwrite:0  prdata:0 pslverr:0 @ 490000
+[DRV] :  paddr:1  pwdata:141 pwrite:0  prdata:0 pslverr:0 @ 550000
+[MON] :  paddr:1  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 570000
+[SCO] :  paddr:1  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 570000
+[SCO] : Data Matched
+----------------------------------------
+[GEN] :  paddr:9  pwdata:222 pwrite:1  prdata:0 pslverr:0 @ 570000
+[DRV] :  paddr:9  pwdata:222 pwrite:1  prdata:0 pslverr:0 @ 630000
+[MON] :  paddr:9  pwdata:222 pwrite:1  prdata:0 pslverr:0 @ 650000
+[SCO] :  paddr:9  pwdata:222 pwrite:1  prdata:0 pslverr:0 @ 650000
+[SCO] : DATA STORED DATA : 222 ADDR: 9
+----------------------------------------
+[GEN] :  paddr:15  pwdata:85 pwrite:0  prdata:0 pslverr:0 @ 650000
+[DRV] :  paddr:15  pwdata:85 pwrite:0  prdata:0 pslverr:0 @ 710000
+[MON] :  paddr:15  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 730000
+[SCO] :  paddr:15  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 730000
+[SCO] : Data Matched
+----------------------------------------
+[GEN] :  paddr:9  pwdata:45 pwrite:0  prdata:0 pslverr:0 @ 730000
+[DRV] :  paddr:9  pwdata:45 pwrite:0  prdata:0 pslverr:0 @ 790000
+[MON] :  paddr:9  pwdata:0 pwrite:0  prdata:222 pslverr:0 @ 810000
+[SCO] :  paddr:9  pwdata:0 pwrite:0  prdata:222 pslverr:0 @ 810000
+[SCO] : Data Matched
+----------------------------------------
+[GEN] :  paddr:11  pwdata:124 pwrite:1  prdata:0 pslverr:0 @ 810000
+[DRV] :  paddr:11  pwdata:124 pwrite:1  prdata:0 pslverr:0 @ 870000
+[MON] :  paddr:11  pwdata:124 pwrite:1  prdata:0 pslverr:0 @ 890000
+[SCO] :  paddr:11  pwdata:124 pwrite:1  prdata:0 pslverr:0 @ 890000
+[SCO] : DATA STORED DATA : 124 ADDR: 11
+----------------------------------------
+[GEN] :  paddr:9  pwdata:154 pwrite:1  prdata:0 pslverr:0 @ 890000
+[DRV] :  paddr:9  pwdata:154 pwrite:1  prdata:0 pslverr:0 @ 950000
+[MON] :  paddr:9  pwdata:154 pwrite:1  prdata:0 pslverr:0 @ 970000
+[SCO] :  paddr:9  pwdata:154 pwrite:1  prdata:0 pslverr:0 @ 970000
+[SCO] : DATA STORED DATA : 154 ADDR: 9
+----------------------------------------
+[GEN] :  paddr:15  pwdata:231 pwrite:0  prdata:0 pslverr:0 @ 970000
+run 1000 ns
+[DRV] :  paddr:15  pwdata:231 pwrite:0  prdata:0 pslverr:0 @ 1030000
+[MON] :  paddr:15  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 1050000
+[SCO] :  paddr:15  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 1050000
+[SCO] : Data Matched
+----------------------------------------
+[GEN] :  paddr:7  pwdata:205 pwrite:1  prdata:0 pslverr:0 @ 1050000
+[DRV] :  paddr:7  pwdata:205 pwrite:1  prdata:0 pslverr:0 @ 1110000
+[MON] :  paddr:7  pwdata:205 pwrite:1  prdata:0 pslverr:0 @ 1130000
+[SCO] :  paddr:7  pwdata:205 pwrite:1  prdata:0 pslverr:0 @ 1130000
+[SCO] : DATA STORED DATA : 205 ADDR: 7
+----------------------------------------
+[GEN] :  paddr:15  pwdata:250 pwrite:0  prdata:0 pslverr:0 @ 1130000
+[DRV] :  paddr:15  pwdata:250 pwrite:0  prdata:0 pslverr:0 @ 1190000
+[MON] :  paddr:15  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 1210000
+[SCO] :  paddr:15  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 1210000
+[SCO] : Data Matched
+----------------------------------------
+[GEN] :  paddr:7  pwdata:65 pwrite:0  prdata:0 pslverr:0 @ 1210000
+[DRV] :  paddr:7  pwdata:65 pwrite:0  prdata:0 pslverr:0 @ 1270000
+[MON] :  paddr:7  pwdata:0 pwrite:0  prdata:205 pslverr:0 @ 1290000
+[SCO] :  paddr:7  pwdata:0 pwrite:0  prdata:205 pslverr:0 @ 1290000
+[SCO] : Data Matched
+----------------------------------------
+[GEN] :  paddr:13  pwdata:211 pwrite:1  prdata:0 pslverr:0 @ 1290000
+[DRV] :  paddr:13  pwdata:211 pwrite:1  prdata:0 pslverr:0 @ 1350000
+[MON] :  paddr:13  pwdata:211 pwrite:1  prdata:0 pslverr:0 @ 1370000
+[SCO] :  paddr:13  pwdata:211 pwrite:1  prdata:0 pslverr:0 @ 1370000
+[SCO] : DATA STORED DATA : 211 ADDR: 13
+----------------------------------------
+[GEN] :  paddr:13  pwdata:210 pwrite:0  prdata:0 pslverr:0 @ 1370000
+[DRV] :  paddr:13  pwdata:210 pwrite:0  prdata:0 pslverr:0 @ 1430000
+[MON] :  paddr:13  pwdata:0 pwrite:0  prdata:211 pslverr:0 @ 1450000
+[SCO] :  paddr:13  pwdata:0 pwrite:0  prdata:211 pslverr:0 @ 1450000
+[SCO] : Data Matched
+----------------------------------------
+[GEN] :  paddr:0  pwdata:81 pwrite:1  prdata:0 pslverr:0 @ 1450000
+[DRV] :  paddr:0  pwdata:81 pwrite:1  prdata:0 pslverr:0 @ 1510000
+[MON] :  paddr:0  pwdata:81 pwrite:1  prdata:0 pslverr:0 @ 1530000
+[SCO] :  paddr:0  pwdata:81 pwrite:1  prdata:0 pslverr:0 @ 1530000
+[SCO] : DATA STORED DATA : 81 ADDR: 0
+----------------------------------------
+[GEN] :  paddr:4  pwdata:57 pwrite:1  prdata:0 pslverr:0 @ 1530000
+[DRV] :  paddr:4  pwdata:57 pwrite:1  prdata:0 pslverr:0 @ 1590000
+[MON] :  paddr:4  pwdata:57 pwrite:1  prdata:0 pslverr:0 @ 1610000
+[SCO] :  paddr:4  pwdata:57 pwrite:1  prdata:0 pslverr:0 @ 1610000
+[SCO] : DATA STORED DATA : 57 ADDR: 4
+----------------------------------------
+[GEN] :  paddr:14  pwdata:197 pwrite:0  prdata:0 pslverr:0 @ 1610000
+[DRV] :  paddr:14  pwdata:197 pwrite:0  prdata:0 pslverr:0 @ 1670000
+[MON] :  paddr:14  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 1690000
+[SCO] :  paddr:14  pwdata:0 pwrite:0  prdata:0 pslverr:0 @ 1690000
+[SCO] : Data Matched
+----------------------------------------
+----Total number of Mismatch : 0------
